@@ -12,7 +12,7 @@ I'm actively working on enhancing my skills in front-end development by e.commer
 ## 🌐 Connect with Me
 
   [Instagram](https://instagram.com/ahmadkhan.17)
-  [Linkedin](https://linkedin.com/ahmad-ali-12581b235)
+  [Linkedin](https://linkedin.com/in/ahmad-ali-12581b235)
   
 
 Let's discuss web development, share insights, and collaborate on exciting projects. Feel free to explore my repositories, and don't hesitate to reach out for a chat or collaboration.
