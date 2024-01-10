@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Ahmadali-302
-- 👀 I’m interested in ...
-  I'm a dedicated web developer passionate about crafting engaging and responsive user interfaces. Currently, I'm immersed in the world of front-end development, specializing in HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a dedicated web developer passionate about crafting engaging and responsive user interfaces. Currently, I'm immersed in the world of front-end development as well back-end, specializing in HTML, CSS, and JavaScript, C++, XML, Python, PHP.
 
-<!---
-Ahmadali-302/Ahmadali-302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## 🚀 What I'm Currently Working On
+I'm actively working on enhancing my skills in front-end development by e.commerce website and Python. Whether it's creating visually appealing layouts or implementing dynamic client-side functionality, I'm always eager to explore and learn.
+
+## 🔧 Technologies & Tools
+- **Front-end:** HTML, CSS, JavaScript, WordPress
+- **Back-end:** XML
+- **Additional Skills:** Responsive Web Design, UI/UX Design, Arduino
+- **Version Control:** Git
+
+## 🌐 Connect with Me
+
+  [Instagram](https://instagram.com/ahmadkhan.17)
+  [Linkedin](https://www.linkedin.com/in/ahmad-ali-12581b235)
+  
+
+Let's discuss web development, share insights, and collaborate on exciting projects. Feel free to explore my repositories, and don't hesitate to reach out for a chat or collaboration.
+
+Happy coding! 🚀
 --->
+
