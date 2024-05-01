@@ -6,7 +6,7 @@ I'm actively working on enhancing my skills in front-end development by e.commer
 ## 🔧 Technologies & Tools
 - **Front-end:** HTML, CSS, JavaScript, WordPress
 - **Back-end:** XML
-- **Additional Skills:** Responsive Web Design, UI/UX Design, Arduino
+- **Additional Skills:** Responsive Web Design, UI/UX Design, Arduino, Python
 - **Version Control:** Git
 
 ## 🌐 Connect with Me
