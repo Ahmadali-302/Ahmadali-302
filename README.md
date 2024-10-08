@@ -4,7 +4,7 @@ I'm a dedicated web developer passionate about crafting engaging and responsive 
 I'm actively working on enhancing my skills in front-end development by e.commerce website and Python. Whether it's creating visually appealing layouts or implementing dynamic client-side functionality, I'm always eager to explore and learn.
 
 ## 🔧 Technologies & Tools
-- **Front-end:** HTML, CSS, JavaScript, WordPress
+- **Front-end:** HTML, CSS,Tailwind CSS, JavaScript, WordPress
 - **Back-end:** XML, SQL, Python
 - **Additional Skills:** Responsive Web Design, UI/UX Design, Arduino, Python, Data Science
 - **Version Control:** Git & Github
