@@ -1,11 +1,11 @@
-I'm a dedicated web developer passionate about crafting engaging and responsive user interfaces. Currently, I'm immersed in the world of front-end development as well back-end, specializing in HTML, CSS, and JavaScript, C++, XML, Python, PHP.
+I'm a dedicated web developer passionate about crafting engaging and responsive user interfaces. Currently, I'm immersed in the world of front-end development as well back-end, specializing in HTML, CSS, and JavaScript, C++, SQL, Python.
 
 ## 🚀 What I'm Currently Working On
 I'm actively working on enhancing my skills in front-end development by e.commerce website and Python. Whether it's creating visually appealing layouts or implementing dynamic client-side functionality, I'm always eager to explore and learn.
 
 ## 🔧 Technologies & Tools
-- **Front-end:** HTML, CSS, Tailwind CSS, JavaScript, WordPress
-- **Back-end:** XML, SQL, Python
+- **Front-end:** HTML, CSS, Tailwind CSS, JavaScript, Bootstrap
+- **Back-end:** SQL, Python
 - **Additional Skills:** Responsive Web Design, UI/UX Design, Arduino, Python, Data Science
 - **Version Control:** Git & Github
 
